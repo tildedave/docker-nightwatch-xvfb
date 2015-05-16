@@ -30,8 +30,7 @@ To run Chrome, you must either have `chromedriver` in your `PATH` environment va
     "host" : "127.0.0.1",
     "port" : 4444,
     "cli_args" : {
-      "webdriver.chrome.driver" : "node_modules/chromedriver/lib/chromedriver/chromedriver",
-      "webdriver.ie.driver" : ""
+      "webdriver.chrome.driver" : "node_modules/chromedriver/lib/chromedriver/chromedriver"
     }
   }
 ```
